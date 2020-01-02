@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Logging">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/Logging.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/Logging.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/Logging.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/Logging.jar!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/Logging.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$PROJECT_DIR$/src/main/resources/Logging.jar!/" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/src/main/resources/Logging.jar!/" recursive="false" type="SOURCES" />
+  </library>
+</component>

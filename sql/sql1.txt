@@ -1,0 +1,4 @@
+1 xin 20
+2 wang 18
+3 cong 8
+4 xiaoming 50
